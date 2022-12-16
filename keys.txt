@@ -1,0 +1,1070 @@
+gdata-cli	mit
+wordpress-crowd-plugin	apache-2.0
+xtermcolor	mit
+vagrant	
+BARD	
+bioscala	other
+mutect	
+pilon	gpl-2.0
+bits-chef-repo	apache-2.0
+cmi-cas-rest-client	
+oncotator	other
+somatic-benchmark	
+GitDescribe-Maven-Plugin	other
+uploader	mit
+rigerj	other
+cxowrapper	
+ohai	apache-2.0
+cakephp	
+lxc	
+adam	apache-2.0
+Squeryl	apache-2.0
+java	apache-2.0
+sensu-chef	
+seqr	agpl-3.0
+sensu-community-plugins	mit
+openldap	apache-2.0
+bdg-formats	apache-2.0
+chef-shibboleth_idp	other
+htslib	
+mysql	apache-2.0
+gamgee	mit
+chef-docker	other
+cotton	other
+picard	mit
+apache2-onehealth	apache-2.0
+scalacache	other
+dig-diabetes-portal	
+bdg-services	apache-2.0
+graphite-experiment	
+eroc	mit
+imaging-platform-pipelines	
+firepony	other
+cosi2	gpl-3.0
+tango	other
+viral-ngs	other
+GpUnit	
+orsp-api	other
+busyflow.pivotal	
+scientific-python-2.7	
+gatk	other
+puppet-opendj	bsd-2-clause
+ebola-predictor	bsd-2-clause
+catch	mit
+ontology-service	mit
+SnowmanSV	gpl-3.0
+herc	bsd-3-clause
+ssl-cert-test	
+snoop	bsd-3-clause
+vault-api	bsd-3-clause
+vault-datamanagement	bsd-3-clause
+phlock	other
+ces-incipient	bsd-3-clause
+broadinstitute.github.io	
+sails-mongo	
+thrift	apache-2.0
+anorm221	
+beacon-of-beacons	
+cms	bsd-2-clause
+vault-boss	bsd-3-clause
+vault-common	bsd-3-clause
+aurora	apache-2.0
+MuTest	
+rawls	bsd-3-clause
+cromwell	bsd-3-clause
+gatk-protected	bsd-3-clause
+agora	bsd-3-clause
+docker-hastebin	
+docker-gam	bsd-3-clause
+scala-baseimage	
+java-baseimage	
+ctc_firehose	
+firecloud-ui	bsd-3-clause
+firecloud-orchestration	bsd-3-clause
+pcull	other
+firecloud-ui-browser-tests	bsd-3-clause
+puppet-nsswitch	other
+docker-gcds	bsd-3-clause
+cfn-pyplates	mit
+docker-pyplates	
+wdl-syntax-highlighting	
+vault	mpl-2.0
+vim-wdl	
+cakephp-mongodb	
+baseimage	
+openidc-baseimage	bsd-3-clause
+puppet-openam	bsd-2-clause
+docker-orientdb	
+docker-terraform	bsd-3-clause
+puppet-php	other
+thurloe	bsd-3-clause
+garethr-docker	apache-2.0
+dig-loam-stream	other
+gatk-dataflow	bsd-3-clause
+lenthall	
+soerenbe-syslog_ng	
+kdux-rails-baseimage	
+shibboleth-service-provider	bsd-3-clause
+Loggly-Puppet	apache-2.0
+docker-vault-server	
+docker-sentry-github	
+docker-slapd	
+toil	other
+pywdl	apache-2.0
+pe2loaddata	bsd-2-clause
+protigy	other
+v-phaser2	
+mvicuna	
+terraform	mpl-2.0
+sabetilab-remote-config	
+wdl4s	
+SynerClust	other
+wdltool	bsd-3-clause
+winstanley	bsd-3-clause
+cromwell-backend	
+PyGithub	lgpl-3.0
+openidc-proxy	bsd-3-clause
+genomestrip-gatk	
+gtex-pipeline	bsd-3-clause
+GoogleBillingDashboard	
+puppet-fail2ban	
+elba	bsd-3-clause
+ossec-puppet	gpl-2.0
+centaur	bsd-3-clause
+infercnv	other
+single_cell_portal_core	bsd-3-clause
+qbsub	mit
+puppet-rssh	isc
+puppetlabs-firewall	apache-2.0
+puppet-certs	bsd-3-clause
+gatk-native-bindings	bsd-3-clause
+puppet-amavisd	bsd-3-clause
+puppet-google_cloud_sdk	
+VariantBam	other
+gdctools	other
+puppet-postfix	other
+sc_analysis_portal	
+vlad	
+MPG-Hack_2	
+gene-mashup	
+puppet-module-epel	apache-2.0
+puppet-fluentd	apache-2.0
+puppet-clamav	gpl-3.0
+puppet-saslauthd	
+hdf5-java-bindings	bsd-3-clause
+seqr-loading-pipelines	mit
+BipolarCell2016	other
+docker-buckettest	
+single_cell_portal	bsd-3-clause
+genomespace_dot_org	
+kryo	bsd-3-clause
+cytominer_scripts	mit
+viral-ngs-deploy	other
+docker-elasticsearch	
+puppet-stackdriver-agent	
+fiss	bsd-3-clause
+ssGSEA2.0	other
+plinkdocker	
+StrainGE	bsd-3-clause
+docker-liquibase	
+3dmutvis	
+cell-health	mit
+barclay	bsd-3-clause
+policyscanner	apache-2.0
+aws-backend	
+docker-scala	
+docker-vaultcli	
+puppet-logrotate	mit
+imaging-backup-scripts	mit
+proteomics	
+docker-nedi	
+docker-mongo	
+dsde-deep-learning	
+ichorCNA	gpl-3.0
+hostinfo	
+pcawg_public	other
+firecloud_developer_toolkit	bsd-3-clause
+single_cell_analysis	
+docker-clojure-node	
+taiga	
+docker-flyway	apache-2.0
+gatk-bwamem-jni	bsd-3-clause
+gatk-fermilite-jni	bsd-3-clause
+funnel	
+imaging_metric_comparison	
+PANOPLY	other
+security_monkey	apache-2.0
+fcgdctools	bsd-3-clause
+broad-translator	
+puppet-dovecot	other
+scalable_analytics	bsd-3-clause
+CromIAM	bsd-3-clause
+firecloud-tools	bsd-3-clause
+firecloud-cli	bsd-3-clause
+clio	bsd-3-clause
+keras-resnet	other
+evangalion	
+keras-rcnn	other
+imaging-platform-terraform	bsd-3-clause
+skopy	other
+aou-researcher-webui-react-prototype	bsd-3-clause
+vectors4s	mit
+puppet-qpage	bsd-3-clause
+2017_05_10_neutrophile_inhibitor	bsd-3-clause
+puppet-snmp	other
+sam	bsd-3-clause
+deepometry	bsd-3-clause
+aou-ui-angular-prototype	other
+cromwell-develop	
+datacentred-ldap	other
+react-cljs-modal	bsd-3-clause
+gnomad-browser	mit
+cwl-proto	bsd-3-clause
+hybsel-design-runs	
+puppet-portmap	apache-2.0
+Italiano-MK-Analysis	mit
+keras-imaging	other
+aou-api-prototype-java7	bsd-3-clause
+jSnap	
+widdler	
+sabeti-dhis2-clinical	
+docker-gradle	
+BTL-EntryCreator	
+BTL-Parsomatic	
+BTL-tracker	other
+ddp-angular	
+BTL-MdReport	
+workbench-libs	other
+stxxl	bsl-1.0
+sabeti-dhis2-clinical-express	
+dropviz	
+google-cloud-auto-snapshot	
+puppet-module-nrpe	apache-2.0
+puppet-foreman_proxy	gpl-3.0
+akka-statsd	mit
+CEGS_single_cell_tx_workshop_Sept2017	
+adapt	mit
+puppet-avamar	apache-2.0
+wdl-sublime-syntax-highlighter	bsd-3-clause
+bitstore-app	
+Gap2Seq	agpl-3.0
+docker-cloudsqlproxy	
+gnomad_methods	mit
+gtex-viz	bsd-3-clause
+cromwell-tools	bsd-3-clause
+tmpnb	bsd-3-clause
+gtex-ashg2017-workshop	
+firecloud-explorer	bsd-3-clause
+wot	bsd-3-clause
+puppetlabs-puppetdb	apache-2.0
+viral-baseimage	other
+gnomad_chets	bsd-3-clause
+password-alert	apache-2.0
+crowd-jaas	gpl-2.0
+gatk4-data-processing	bsd-3-clause
+gatk3-4-rnaseq-germline-snps-indels	bsd-3-clause
+consensus_svs	
+fiabftw	
+antryg	
+reasoner	
+sparklespray	
+TestArsen2	
+RNA_MUTECT_1.0-1	other
+gsalib	other
+btl_firecloud	bsd-3-clause
+labs-on-cloud	bsd-3-clause
+react-cljs-nav	bsd-3-clause
+epi-diffbind	
+KrumlovSingleCellTx2018	
+dig-loam	
+identify	
+ORFCall	
+wdl	bsd-3-clause
+HydrantFC	bsd-3-clause
+TSCA_firecloud_WDLS	
+gpalloc	
+DropSeq_utility	
+btl_firecloud_gatk	
+puppet-gcloudsdk	
+snakemake-broad-uger	mit
+various	
+react-broad	other
+gatk-evaluation	
+imaging-bbbc	
+atestrepo	
+author-affiliations	
+cromstream	bsd-3-clause
+puppet-dell	
+martha	bsd-3-clause
+funpipe	mit
+DLBCL_Nat_Med_April_2018	
+OptionsMenu	bsd-3-clause
+react-broad-bootstrap	other
+puppet-freeradius	apache-2.0
+language-wdl	mit
+spames	
+docker-timefix	
+trinityrnaseq	bsd-3-clause
+scRNA-Seq	bsd-3-clause
+tgg_methods	mit
+cromshell	bsd-3-clause
+single-cell-annotation	
+adapt-analysis	mit
+Drop-seq	mit
+metabaron	bsd-3-clause
+puppet-mongodb	apache-2.0
+beast-beagle-pocl	mit
+PEHaplo	
+beast-beagle-cuda	mit
+dsp-appsec-sphinx-kb-archived	
+gtex-public	
+cromwell-accountant	
+denimcoat	
+puppet-openssl	apache-2.0
+inferCNV_examples	
+firecloud-bucket-log-shipper	
+dig-loam-images	
+servicenow-powershell	apache-2.0
+wes2cromwell	
+honeypot	
+gtex-tutorials	
+gnomad_lof	mit
+puppet-dhcp	apache-2.0
+Google-Apps-Script	
+GDAN	bsd-3-clause
+puppet-hiera	apache-2.0
+damage	
+reaper	bsd-3-clause
+cotools	other
+DecisionAnalysis	other
+seQc_MultiQC	gpl-3.0
+google-cloud-java	apache-2.0
+dhcpd-cli	
+epi-correlation	bsd-3-clause
+DropletUtils	
+dig-aggregator-core	
+hiring-without-whiteboards	mit
+Concensus2	
+dpg_static_content	
+tensorqtl	bsd-3-clause
+netbox-docker	apache-2.0
+rl_reasoner	
+gdr-ingest	bsd-3-clause
+workbench-tos	
+bits-progressbar	
+bits-gpgfile	
+heterodon	
+TigerETL2	
+gene_select_v3	
+pipelines-tools	apache-2.0
+cptac-convert-to-gct	
+CEGS-2018	
+CommunityAMARETTO	apache-2.0
+fungal-wdl	bsd-3-clause
+puppet-r	
+dcp-community	
+tangent	mit
+orsp-pub	bsd-3-clause
+SignatureAnalyzer-GPU	bsd-3-clause
+gnomad_qc	bsd-3-clause
+gnomad_bigquery	bsd-3-clause
+woodard	bsd-3-clause
+homebrew-dsp	bsd-3-clause
+pre-commit-hooks	mit
+CisRegModels	gpl-3.0
+CRM2.0	
+genomestrip-builds	
+GAEMR	gpl-2.0
+mock-provider	bsd-3-clause
+epi-wdl-workshop	bsd-3-clause
+cumulonimbus	bsd-3-clause
+2018_04_20_Rosetta	bsd-3-clause
+cell	
+demuxEMS	gpl-3.0
+cromwell-monitor-deprecated	
+alfre	
+alicia	
+mcfeely	
+gcp-dm-templates	bsd-3-clause
+cloud-cost-management	mit
+dsde-probabilistic-programming	
+spiderdot	
+kaniko-stage-naming-bug	
+kaniko-stage-caching-bug	
+kaniko-cloudsdk-base-bug	
+PhylogicNDT	other
+PerMutation	bsd-3-clause
+aws-cloudformation-templates	apache-2.0
+wdl-runner	bsd-3-clause
+rec-seq	mit
+puppet-rsyslog	apache-2.0
+comodo_rest_api	agpl-3.0
+puppet-mlocate	
+python-cert_manager	bsd-3-clause
+broad-fungalgroup	mit
+lomax	
+ukbb_qc	
+emerald-kubernetes-kafka	apache-2.0
+scion	
+uger-cromwell	
+NGCHMR	
+2019_scWorkshop	
+bits-backupify	
+CellBender	bsd-3-clause
+python-standard-bits	bsd-3-clause
+mirrors-pylama	
+pylama	lgpl-3.0
+bz_bbf	
+infercnvNGCHM	other
+PipelinesSupport	
+ansible-role-configure	
+dsp-ansible-configs	
+python-alteon	bsd-3-clause
+terraform-shared	
+gp-crspjanusapp	
+ansible-role-basepackages	
+ansible-role-docker-thinpool	mit
+gistic2	mit
+FiTnEss	gpl-3.0
+ansible-role-docker	mit
+ansible-role-lvm	
+monster-etl	bsd-3-clause
+ansible-role-stackdriver	
+gcs-list-md5	
+puppet-module-cgroups	apache-2.0
+ansible-role-yum-cron	
+ansible-role-filebeat	
+ansible-role-rhel-hardening	
+scred	other
+chowser	bsd-3-clause
+ansible-role-sentinelone	
+TOPMed_AFib_pipeline	mit
+vault-init	apache-2.0
+sra_submission_tool	
+bam_sampler	
+wdl-for-dockstore	
+dsp-ingest-deploy	bsd-3-clause
+dsp-data-models	bsd-3-clause
+terraform-jade	
+monster	
+ansible-role-token-copy	
+infrastructure-agent-puppet	other
+terraform-terra	
+regevlab-jupyter-docker	
+ml4h	other
+puppetlabs-puppet_agent	apache-2.0
+adapt-designs-continuous	
+bits-docker	bsd-3-clause
+ansible-role-jenkins	
+ABC-Enhancer-Gene-Prediction	mit
+regional_missense_constraint	bsd-3-clause
+profiling-resistance-mechanisms	bsd-3-clause
+arbio	bsd-3-clause
+fastq_sampler	
+python-sudoers	bsd-3-clause
+docker-stash	
+malaria-vc	bsd-3-clause
+ebola-imc-code	
+file-stats	bsd-3-clause
+depmap_omics	
+depmap-api	mit
+Protein_Kinase_Inhibitors_Gray	
+long-read-pipelines	bsd-3-clause
+puppet-qualys_agent	bsd-3-clause
+concensusGLM	mit
+scp-ingest-pipeline	bsd-3-clause
+ols-docker	
+barkbase_paper_analysis	mit
+wdl-ide	bsd-3-clause
+vagrant-bases	
+vagrant-puppet	
+pygls	apache-2.0
+HandLens-1.0.0	other
+genomestrip-cnv-browser	
+gene_knockout_correlation	mit
+cromwell-task-monitor-bq	
+ansible-role-docker-overlayfs	
+ansible-role-local-filesystem	
+ansible-role-jenkins-user	
+tcrd-api	other
+PerturbationAMARETTO	mit
+ansible-role-docker-service	
+sharpener-depmap-expander	mit
+getzlab-PHS	
+circleci-orb-bits-python	
+github-maven-package-example	
+dig-dug-server	bsd-3-clause
+dig-dug-static-resources	
+getzlab-LNP	
+circleci-orb-bits-puppet	bsd-3-clause
+monster-storage-libs	bsd-3-clause
+lgtm-pr-test-repo	mit
+sharpener	mit
+CCLF_TWIST	
+filestats-bq	bsd-3-clause
+deployment-template	
+split_merge_pl	other
+ansible-role-consul	
+google-storage-ftp	mit
+eyp-initscript	
+scp-rails-baseimage	
+sharpener-geneset-producer	mit
+monster-xml-to-json-list	bsd-3-clause
+SRA-submission	
+puppet-splunk	apache-2.0
+sharpener-gui	
+repurposing	
+minnie-kenny	bsd-3-clause
+dsp-appsec-codedx-api-client-python	
+getzlab-PCAWG-pvalue_combination	bsd-3-clause
+Workflow-Visualizer	
+genomics-in-the-cloud	bsd-3-clause
+terra-featured-workspace-tests	
+cookiecutter-bits-pypi	bsd-3-clause
+ansible-role-os-settings	
+monster-sbt-plugins	bsd-3-clause
+dig-aws	
+sharpener-disease-genes-producer	mit
+sharpener-phenotype-similarity-expander	mit
+prism_data_processing	bsd-3-clause
+sharpener-common-to-rare-disease-gene-producer	
+ImagingAMARETTO	mit
+image-profiling-workflow-template	bsd-3-clause
+sharpener-remove-genes-filter	mit
+sharpener-tcrd-filter	bsd-3-clause
+viral-assemble	other
+viral-classify	other
+viral-phylo	other
+viral-core	other
+viral-pipelines	other
+puppet-slurm	apache-2.0
+monster-ingester	bsd-3-clause
+sharpener-pathway-enrichment	mit
+sharpener-expression-correlation	mit
+terranblib	
+sharpener-attribute-filter	mit
+gatk-sv-single-sample	bsd-3-clause
+sharpener-string-expander	
+sharpener-hypergeometric-enrichment-expander	
+sharpener-hypergeometric-enrichment-filter	
+sharpener-random-producer	
+getzlab-LNPHS_utils	
+taigapy	
+taigr	
+mix_seq_ms	
+PatHCapProbes	
+gtex-v8	bsd-3-clause
+GeneSelection	other
+DeepProfilerExperiments	
+starfire	bsd-3-clause
+docker-devnull-vscode-python	
+sttp-swagger-codegen	bsd-3-clause
+dig-kb-openapi-specs	
+docker-devnull-vscode-puppet	
+pyqtl	bsd-3-clause
+UMINormalize	other
+PatHCap_PL	other
+bits-appengine	
+beast2-beagle-cuda	mit
+gwas-ui	
+dig-dug-portal	
+puppet-tomcat	apache-2.0
+GATK-gCNV-publication	
+avro-import	
+cellprofiler-terra	
+getzlab-PCAWG-power_calculations	bsd-3-clause
+pytos	apache-2.0
+gnomad-readviz	bsd-3-clause
+dsp-appsec-seckb	
+travis-reporter	bsd-3-clause
+getzlab-PCAWG-MutSig2CV_NC	
+monster-deploy	bsd-3-clause
+helm-fluentd	
+OpticalElectrophysiology	
+ddp-android-sdk	
+single_cell_classification	
+CRISPRiTilingDesign	mit
+dig-bioindex	bsd-3-clause
+import-service	bsd-3-clause
+tgg-viewer	mit
+HTAPP-methods-supp	
+popscle	apache-2.0
+Zoonomia	mit
+pepper	bsd-3-clause
+ddp-study-server	bsd-3-clause
+ddp-study-manager	bsd-3-clause
+helm-argo-test	
+datarepo-helm	
+palantir-workflows	bsd-3-clause
+sharpener-bicluster-expander	mit
+puppetlabs-certregen	apache-2.0
+lincs-cell-painting	bsd-3-clause
+puppet-katello	gpl-3.0
+puppet-certs-1	gpl-3.0
+puppet-foreman	gpl-3.0
+puppet-qpid	gpl-3.0
+charts	mit
+vault-crd-helm	
+CellMiner	
+datarepo-helm-definitions	
+DSP_User_Ed	
+omim-search	mit
+lloyd	mit
+KrumlovSingleCellWorkshop2020	
+coessentiality	mit
+gatk-docs	bsd-3-clause
+genomestrip-terra	mit
+yootilz	bsd-3-clause
+conseq	
+terra-profile	bsd-3-clause
+AwesomeGenomics	apache-2.0
+terra-helm	bsd-3-clause
+terra-helm-definitions	
+monster-helm	bsd-3-clause
+2016_10_19_InSitu_Expression_Hacohen_Lab_Paul_Hoover_Partners	
+checklists.github.io	
+covisr	mit
+dsp-devops-wiki	
+gatk-minimap2-jni	bsd-3-clause
+iam_kernel_poc	bsd-3-clause
+flask-restplus	other
+scaraplate	mit
+pyfrost	bsd-3-clause
+sc_topics	bsd-2-clause
+monster-scio-utils	bsd-3-clause
+github-tag-action	mit
+repository-dispatch	mit
+molecular-data-provider	mit
+deployment-status	mit
+iam_poc_ui_client	
+horsefish	bsd-3-clause
+axios-retry	other
+adapt-designs	
+dsp-appsec-debian9-hardening-role	
+ansible-yum-cron	mit
+exome-results-browsers	bsd-3-clause
+godror	other
+2020_scWorkshop	
+setup-vault	mit
+github-action-consul-template	
+gradle-command-action	mit
+pupmod-simp-auditd	other
+Celligner_ms	
+terra-incident-response	
+NeMO-templates	
+wfl	bsd-3-clause
+dsp-appsec-infrastructure-apps	bsd-3-clause
+BioC2020Workshop_AMARETTO-Hub	mit
+AMARETTO-Hub	mit
+carrot	other
+green-helm-repo	bsd-3-clause
+hjf-playground	
+import_service_terraform	bsd-3-clause
+Avant-garde-Terra	
+turnstyle	mit
+puppet-ssh	
+ncbi-tools	bsd-3-clause
+terraform-ap-modules	bsd-3-clause
+action-slack	mit
+genetics-kp-dev	mit
+gotc-helm-repo	
+chart-testing-action	apache-2.0
+lunaris	bsd-3-clause
+datarepo-actions	
+dsp-appsec-base-image-hardening	
+puppet-zabbix	apache-2.0
+covid19-testing	mit
+cms2	other
+dsp-appsec-trivy-cicd	
+install-gcs-connector	mit
+data-provider-service	
+Intro_python_CPAcademy	mit
+dsp-appsec-actions-docker-gcr	
+GeLiNEA	mit
+leonardo-libs	bsd-3-clause
+cdsr_biomarker	
+gnomad-blog	bsd-3-clause
+pooled-cell-painting-image-processing	bsd-3-clause
+biowdl-test-data	mit
+action-yamllint	mit
+bri	mit
+puppet-openvpn	apache-2.0
+setup-chart-releaser	bsd-3-clause
+test-jekyll-vdauwera	
+chart-releaser-action	apache-2.0
+helm-scala-sdk	
+cellpainting_scripts	bsd-3-clause
+github-action-template-render	
+glmm-de-genes	
+tubo	
+pooled-cell-painting-profiling-recipe	bsd-3-clause
+dockstore-tool-bamstats	apache-2.0
+checkpoint-on-preemption	
+2020_04_07_COVID_Davey_lab	
+puppet-duo_openvpn	
+helm-values-example	
+mira-SARS-CoV-2	
+dockstore-tool-cosi2	apache-2.0
+Optosynth	bsd-3-clause
+pooled-cell-painting-profiling-template	bsd-3-clause
+push-to-cloud-service	bsd-3-clause
+COMOKIT-Model	gpl-3.0
+GATK-for-Microbes	bsd-3-clause
+cn_correlation	mit
+sassy	
+ddp-study-manager-ui	bsd-3-clause
+viral-ngs-staging	bsd-3-clause
+preemptible_cromwell	
+variantreviewparty	bsd-3-clause
+argo-helm	apache-2.0
+dig-aggregator-method.g8	
+docker-nmap	
+infercnvApp	other
+ptm-normalization-script-test	
+auspice	agpl-3.0
+umi-collapser-internal	
+ConSequences	bsd-3-clause
+discovar_de_novo	mit
+dig-aggregator-methods	bsd-3-clause
+repeatVariantsInCCLE	
+cdsr_plots	
+cdsr_models	
+puppet-tuned	mit
+cdsr_gsea	
+covid-19-static	
+terra-tools	bsd-3-clause
+AutoTrain	
+cma-search	mit
+warp	bsd-3-clause
+APSGhistory	
+dockstore-tool-selscan	apache-2.0
+isham_wgs	
+variantstore	bsd-3-clause
+segmentation_experiments	mit
+igv.js	mit
+gatk-sv	bsd-3-clause
+datarepo-umbrella-release-action	
+seQuoia	gpl-3.0
+jade-data-repo-client-example	bsd-3-clause
+dspman	
+2020-goodman-lee	bsd-3-clause
+gnomad-browser-toolkit	mit
+dockerized_mts	
+puppet-dns	apache-2.0
+cms2-work	apache-2.0
+2020-06-01-Evidence-of-state-switching-in-single-cell-drug-response-Broad	
+yardstick-app	
+python-slack-scim	mit
+sabeti-host-txnomics-internal	
+.github	
+PowerShell-Docker	other
+Aneuploidy_dependencies	
+cell-painting-vae	bsd-3-clause
+pdm-backend	apache-2.0
+pdm-ui	
+cell-painting-batch-effects	bsd-3-clause
+SpliceAI-lookup	mit
+sc2-variation-scripts	mit
+github-action-get-previous-tag	mit
+operation-outbreak-data-models	mit
+comparing-moa-representations	
+PangenomeVis	
+yardstick-compound-structure	other
+AncestralGeneRator	bsd-3-clause
+carrot_cli	bsd-3-clause
+dos-drs-perf	
+automerge-action	mit
+create-pull-request	mit
+epi-em-squire	
+puppet-autofs	apache-2.0
+puppet-ca_cert	
+ansible-role-sbt	
+raman_classifier_challenge	
+dockstore-tool-cms2	apache-2.0
+Tangram	bsd-3-clause
+cdot_track_compounds_run	mit
+CTAT-VirusIntegrationFinder	bsd-3-clause
+leonardo-cron-jobs	
+2021_04_07_ProteinKinaseInhibitors_NathanaelGray	
+pdb2pqr	
+labelfree-cellpainting	bsd-3-clause
+gnomad_local_ancestry	mit
+pyro-cov	apache-2.0
+profiling-recipe	bsd-3-clause
+depmap_target_birc6	
+ensemble_predictor	
+python-mistery	bsd-3-clause
+mistsystems	gpl-3.0
+dsp-appsec-centos7-hardening-role	
+terraform-google-monitoring-uptimecheck	
+dig-indexer	
+adapt-pipes	mit
+one-shot-atlas	
+cds-ensemble	
+setup-helmfile	mit
+lincs-profiling-complementarity	bsd-3-clause
+pytorch_fnet	other
+workflow-dispatch	mit
+terra-helmfile-images	bsd-3-clause
+carrot-publish-github-action	mit
+PuckCaller	
+grit-benchmark	bsd-3-clause
+puppet-yp	apache-2.0
+podman	apache-2.0
+adapt-web	
+terraform-github-actions	mpl-2.0
+speady	
+celligner	unlicense
+dsp-appsec-trivy-action	
+torch_ml4h	
+liftover	mit
+gatk-tool-wdls	bsd-3-clause
+adapt-seq-design	mit
+gene-hints	bsd-3-clause
+snputil	
+bits-aoc-leaderboard	mit
+hscgp	
+brown_lab_warp	bsd-3-clause
+bQTL_mapping_rerun	apache-2.0
+genepy	apache-2.0
+chronos	
+strainge-paper	
+ComparatorByTrait	bsd-3-clause
+be-validation-pipeline	
+longbow	bsd-3-clause
+puppet-cups	mit
+BactRNASeqCount	apache-2.0
+carmen-rvp	mit
+workingdogs	mit
+disk-manager	
+jinja2-gcp-secret-manager	apache-2.0
+genus	mit
+proteomics-CPTAC-BRCA2020	
+encode_utils	mit
+gtex-single-nucleus-reference	
+SingleCell_Morphological_Analysis	
+genesets	
+ConsolePi	
+nextstrain-builds	mit
+bibtutils	mit
+del_sequence_processing	mit
+nitrogenase	bsd-3-clause
+megadrile	bsd-3-clause
+terra-jupyter-plotly	bsd-2-clause
+TCRP	mit
+rna_seq_sars_cov_2	bsd-3-clause
+plotly-dash-gcp	bsd-2-clause
+sc2-seq-dash-public	bsd-2-clause
+sc2-rmd	bsd-2-clause
+inspec-gcp-cis-benchmark	apache-2.0
+inspec-gke-cis-benchmark	apache-2.0
+action-shellcheck	mit
+viral-rmd	bsd-2-clause
+AmpSeQC	bsd-3-clause
+cellprofiler-on-Terra	bsd-3-clause
+SNPiR-Python	mit
+covid19-altruistic-testing	
+RVBLR	mit
+GATK-For-Primates	mit
+py3-bio	bsd-2-clause
+epi-SHARE-seq-pipeline	mit
+accelerate_simple_query	
+puppet-sentinelone_agent	bsd-3-clause
+bits-fedex	bsd-3-clause
+lattice	bsd-3-clause
+exome_penetrance	
+flipbook	mit
+ras-passport-example	
+cms2-docker-component-stats	
+potato-site	
+temporal-rna-seq-deconvolution	bsd-3-clause
+cats-effect	apache-2.0
+tinyquery	mit
+neural-profiling-archive	mit
+terra-import-builder	bsd-3-clause
+golang-project-template	bsd-3-clause
+codecov-bash-uploader	bsd-3-clause
+tgg-terraform-modules	
+bits-ap-modules	
+peat	bsd-3-clause
+dagster-utils	bsd-3-clause
+computational-resources	
+ResearchKit	other
+homebrew-core	bsd-2-clause
+SVGKit	other
+HandLens	
+EasyTipView	mit
+gisaid-cli	gpl-3.0
+TAG-public	
+pasec	
+cellarium	
+SatMut_VariantLibrary_Designer	
+SatMut_ASM_Parser	
+SimCLR3D	mit
+selene	bsd-3-clause
+docker-cr-rotate	apache-2.0
+covid19-sequencing	bsd-3-clause
+carrot-example-test	
+gnomad_review_hum_mut	bsd-3-clause
+docker-nginx	apache-2.0
+MAESTRO-probe_designer	bsd-3-clause
+polyphonia	mit
+ddp_monster_ingest	
+neural-profiling	
+update-gene-symbols-hgnc	apache-2.0
+github-vault-action-usage	
+proteomics-SigPath-supplemental-data	
+for_ucsc	
+OO-modeling	
+gnomad-mitochondria	mit
+ttn-neb-analysis	mit
+str-analysis	mit
+revere	bsd-3-clause
+apache-ubi-proxy-fips	
+malaria-amplicon-pipeline	
+dsp-appsec-terra-compliance-poc	
+oglhclient	
+github-app-creds-example	
+SPR_Create_Dotmatics_ADLP_File	
+BioSimSpaceTutorials	
+analytics-public	
+pagerduty-trigger-slack-command	
+CDoT_compound_track_2	mit
+dsp-appsec-sast	
+FusionInspectorPaper	
+gh-action-pypi-publish	bsd-3-clause
+sherlock	bsd-3-clause
+segmentation	
+terra-fw-notebooks	
+RASPDplus	eupl-1.2
+MD-IFP	eupl-1.2
+dsp-appsec-actions-gke-poc	
+cromwell-client	mpl-2.0
+batch-effect-correction	bsd-3-clause
+cromwhelm	
+AuSPICES	bsd-3-clause
+MFmap	
+puppet-pdsh	
+cms2-pipelines	other
+celligner2	unlicense
+jedi-public	other
+StrPileups	mit
+mas-seq-paper-data	
+antenna	bsd-3-clause
+ip-superurop-t_gao	
+BBBC021_Morpheus_Exercise	mit
+MAS-ISO-seq	bsd-3-clause
+swagger-ui-xss-poc-fix	
+jati	bsd-3-clause
+openidc-terra-proxy	bsd-3-clause
+gnomad-project-template	bsd-3-clause
+CLASTR-internal	gpl-3.0
+hca-adapter-tools	bsd-3-clause
+proteomics-CPTAC-LUAD2020	
+proteomics-CPTAC-BRCA2016	
+proteomics-CPTAC-LSCC2021	
+proteomics-CPTAC-BKM120	
+tentacle	bsd-3-clause
+proteomics-ptmsigdb-app	
+mcarmen	
+luad-cell-painting	
+cellpainting-gallery	mit
+pgen-jni	
+prancer	mit
+sw-test-distroless	
+retry	mit
+stimATAC_analyses_code	
+jacalloc	
+dsp-grafana	bsd-3-clause
+tim-retreat-breakout-session-2021	
+single-cell-images	mit
+github-action-push	mit
+t3-support-script	apache-2.0
+yale	bsd-3-clause
+thelma	bsd-3-clause
+trivy-cve-scan	bsd-3-clause
+grafana-variable-aliaser	
+CNVsingle	
+depmap-crispr-vs-rnai	
+python-clearpass	bsd-3-clause
+eqtl_pipeline_terra	mit
+tissue_purifier	apache-2.0
+bioshop	
+lrma-cloud-utils	bsd-3-clause
+phewas_genetic_analysis	
+dsp-terra-mooc-intro	cc-by-4.0
+bits-terraform-modules	bsd-3-clause
+capirca-syntax-highlighter	bsd-3-clause
+slats	bsd-3-clause
+FeatureAggregation	bsd-3-clause
+FeatureAggregation_single_cell	
+bcarmen	
+gpp-rnaseq-analysis	
+gp-oxfordsync	gpl-3.0
+terraform-demo	bsd-3-clause
+bmxp	mit
+phenotype-driven-analysis	mit
+tups	bsd-3-clause
+varianteval	bsd-3-clause
+rs3_manuscript	
+quickboard	bsd-3-clause
+bvas	apache-2.0
+phenics	bsd-3-clause
+sntr	
+igv-experiments	
+FungalDx_CandidaID	mit
+plink2-docker	apache-2.0
+castnet	mit
+ExP-model-fit	bsd-3-clause
+dsp-appsec-zap-automation	bsd-3-clause
+gatk-sv-genotyper	bsd-3-clause
+lr-malaria-automation	bsd-3-clause
+smn_analysis	mit
+pav-wdl	
+sc2-cmu-study	mit
+SynapseCLR	bsd-3-clause
+green	mit
+mccarroll-cromwell	
+CCLE_methylation	
+gumbo_client	
+depmap-django-forestadmin	gpl-3.0
+genetics-kp-creative	
+sequence-upload-to-gs	other
+achilles_sheet_scraper	
+achilles_onboarding	
+lr-automation	bsd-3-clause
+cell-annotation-service-pilot	bsd-3-clause
+junkbox	bsd-3-clause
+bibt-gcp-scc	mit
+gatk-sv-1	bsd-3-clause
+proteomics-CPTAC-MONTE2022	
+submissions	
+seqr-helm	bsd-3-clause
+depmap_omics_upload	unlicense
+gnomad-constraint	bsd-3-clause
+MantaSVAnnotator	
+sma-finder	mit
+beehive	bsd-3-clause
+lander-journalclub	
+broad-epi-cut-n-run	
+epi-lims-workflows	
+playwright-e2e	bsd-3-clause
+ID_Sandbox	mit
+anvil_tdr_ingest	
+2015_Bray_GigaScience-data	bsd-3-clause
+warp-tools	bsd-3-clause
+CTAT-pVACseq	
+broad-epi-workflows-collection	mit
+celseq2-wdl	
+villages-sqtl-pipeline	
+git-secrets	apache-2.0
+poolq	other
+str-truth-set	mit
+gatk-sv-2	bsd-3-clause
+gatk-sv-3	bsd-3-clause
+sz-gatk-sv-vjalili	bsd-3-clause
+cell-annotation-service-client	bsd-3-clause
+cromshell-1	bsd-3-clause
+MicroscopyForBeginnersReferenceGuide	
+gatk-sv-4	bsd-3-clause
+test_rep	
